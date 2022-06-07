@@ -1,0 +1,34 @@
+{
+  "candidate": [
+    {
+      "id": 1,
+      "name": "ritik",
+      "email": "rrajput6863@gmail.com",
+      "phone": "9090909090"
+    },
+    {
+      "id": 2,
+      "name": "Mukul Chahal",
+      "email": "mukul09@gmail.com",
+      "phone": "4354544232"
+    },
+    {
+      "id": 3,
+      "name": "Vishal Pandat",
+      "email": "pandat099@gmail.com",
+      "phone": "1"
+    },
+    {
+      "id": 4,
+      "name": "Ritik Chauhan",
+      "email": "rrajput6863@gmail.com",
+      "phone": "9090909090"
+    },
+    {
+      "name": "sdsds",
+      "email": "sdsd",
+      "phone": "12233",
+      "id": 5
+    }
+  ]
+}
